@@ -50,4 +50,4 @@ The dataset includes the joke phoneme `mlem` for mouth clicks at the start of br
 ```
 
 # License:
-    ACV-001  © 2025 by YiChen Huang is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+<a href="https://github.com/Archivoice/ACV-001">ACV-001</a> © 2025 by <a href="https://github.com/Archivoice">YiChen Huang</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
