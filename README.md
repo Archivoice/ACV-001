@@ -13,7 +13,9 @@ To train exclusively in Chinese with no English included, remove the following s
 - 001_seg019 (.wav/.lab/.ds)
 (or just the entirety of sample 001)
 
-As of 2025/11/6, the dataset is currently incomplete, and is only a beta release, but is completely labeled, and fully capable of being used with no issues at all. This beta version contains 21 songs. Measuring roughly 56 minutes and 50 seconds, including silence. (56 min 19 sec excluding the samples including English)
+As of 2025/11/6, the dataset is currently incomplete, and is only a beta release, but is completely labeled, and fully capable of being used with no issues at all. This beta version (v0.1) contains 21 Chinese songs. Measuring roughly 56 minutes and 50 seconds, including silence. (56 min 19 sec excluding the samples including English)
+
+As of night of 11/6 (beta v0.1 was uploaded at around 3 AM), the dataset includes an English section, of 9 songs, the first few of which contain Korean (namely samples en_001, en_002, and en_005). (26 min 42 secs including silence)
 
 The dataset is recorded at 16 bit 44.1k Hz wav format and labeled in HTK label format (.lab).
 
@@ -25,29 +27,7 @@ In the full length version of the dataset, humming is labeled `M` instead of `m`
 The dataset includes the joke phoneme `mlem` for mouth clicks at the start of breaths.
 
 ## Song List (Beta version)
-```
-001	11 GEM ver.
-002	再見
-003	多遠都要在一起
-004	透明
-005	你是我的歌
-006	光（星塵版）
-007	光（永夜版）
-008	星願
-009	反正(short ver.)
-010	給某某
-011	大雨
-012	又將盛夏
-013	失陷(short ver.)
-014	鼎沸
-015	眼瞳之火(short ver.)
-016	Solar Storm
-017	明日
-018	失戀無罪(short ver.)
-019	希望懸空
-020	零和
-021	現在我很幸福
-```
+Moved to [song list](https://github.com/Archivoice/ACV-001/tree/8800afb3fd3e6178a7e13773ecd8b13e17ebe758/song%20list)
 
 # Credits:
 
