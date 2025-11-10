@@ -3,7 +3,7 @@ public male singing voice dataset
 
 # Dataset Info:
 ## Format and Specs:
-The dataset is manually labeled with the ACV format Chinese phonemes as mentioned [here](https://github.com/Archivoice/AV-diffsinger-Chinese-support) and arpabet for English, which are labeled with diffsinger's multi language dataset preparation in mind, so bear the language tag `en/`.
+The dataset is manually labeled with the ACV format Chinese phonemes as mentioned [here](https://github.com/Archivoice/AV-diffsinger-Chinese-support), arpabet for English, and Korean via Team Coda's [system](https://github.com/Coda-SVS/diffsinger-korean-support/tree/main)(found in the English section of the dataset), which are labeled with diffsinger's multi language dataset preparation in mind, so bear the language tags `en/` and `ko/`.
 
 To train exclusively in Chinese with no English included, remove the following samples:
 - 001_seg002 (.wav/.lab/.ds)
