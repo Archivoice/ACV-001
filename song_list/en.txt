@@ -1,0 +1,47 @@
+en_001	Takedown
+en_002	Golden
+en_003	What It Sounds Like (short ver.)
+en_004	Free
+en_005	How It's Done
+en_006	End of The World (extended ver.)
+en_007	Stand Up
+en_008	Defying Gravity
+en_009	Popular (Ariana ver.) 
+en_010	No Good Deed
+en_011	I'm Here
+en_012	Over The Rainbow 
+en_013	I'm Not That Girl
+en_014	For Good
+en_015	In Another World
+en_016	The Wizard and I
+en_017	What Is This Feeling
+en_018	Butcher Vanity
+en_019	I Can't Sing
+en_020	Supernatural
+en_021	We Can't Be Friends
+en_022	Imperfect For You 
+en_023	Twilight Zone 
+en_024	Past Life (short ver.)
+en_025	Hampstead
+en_026	Break Free
+en_027	I Wish I Hated You
+en_028	Glowing Up
+en_029	Love Story
+en_030	Eternal Sunshine
+en_031	Heart Attack (short ver.)
+en_032	Disease
+en_033	How Far I'll Go
+en_034	Never Enough
+en_035	Chandelier
+en_036	The Dead Dance
+en_037	Someone Like You
+en_038	Beyond
+en_039	When Will My Life Begin
+en_040	For The First Time In Forever
+en_041	Love In The Dark
+en_042	Hello
+en_043	Set Fire To The Rain
+en_044	Ladylike (short ver.)
+en_045	Vanish Into You
+en_046	Rolling In The Deep
+en_047	Into The Unknown

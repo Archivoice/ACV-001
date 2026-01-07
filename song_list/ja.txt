@@ -1,0 +1,23 @@
+jp_001	向日葵 (Himawari)
+jp_002	新時代 (New Genesis)
+jp_003	ギラギラ (Gira Gira)
+jp_004	冬のはなし (Fuyu No Hanashi)
+jp_005	逆光 (Backlight)(short ver.)
+jp_006	レディメイド (Readymade)
+jp_007	永遠のあくる日 (Eien No Akuruhi)
+jp_008	ストリーミングハート (Streaming Heart)
+jp_009	ゴーストルール (Ghost Rule)
+jp_010	二息步行 (Ni Soku Ho Kou)
+jp_011	Hearts
+jp_012	乙女解剖 (Otome Kaibou)
+jp_013	Tiny Light
+jp_014	言って (Itte)
+jp_015	ミカヅキ (Mikazuki)
+jp_016	風のゆくえ (Where The Wind Blows)
+jp_017	会いたくて (Aitakute)
+jp_018	アンダーカバー (Undercover)
+jp_019	+Reverse (short ver.)
+jp_020	ヴァンパイア (The Vampire)
+jp_021	弱虫モンブラン (Yowamushi Mont Blanc)
+jp_022	Last Stardust
+jp_023	モザイクロール (Mozaik Role)(Reloaded ver.)
