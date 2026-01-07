@@ -1,9 +1,0 @@
-en_001	Takedown
-en_002	Golden
-en_003	What It Sounds Like
-en_004	Free
-en_005	How It's Done
-en_006	End of The World (extended ver.)
-en_007	Stand Up
-en_008	Defying Gravity (Cynthia Erivo ver.)
-en_009	Popular (Ariana Grande ver.)
