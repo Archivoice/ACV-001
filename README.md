@@ -35,7 +35,7 @@ To prevent placement issues, consonant clusters where the semivowel (r, w, y, l)
 The dataset includes the joke phoneme `mlem` for mouth clicks at the start of breaths.
 
 ## Song List:
-Moved to [song list](https://github.com/Archivoice/ACV-001/tree/8800afb3fd3e6178a7e13773ecd8b13e17ebe758/song%20list)
+Moved to [song list](/song_list)
 
 # Credits:
 Voice provided by Jonathan Huang 黃奕晨, owner of ArchiVoice, [X/Twitter](https://x.com/NekroTheCorpse)
