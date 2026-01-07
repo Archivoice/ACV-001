@@ -43,5 +43,5 @@ Voice provided by Jonathan Huang 黃奕晨, owner of ArchiVoice, [X/Twitter](htt
 # License:
 <a href="https://github.com/Archivoice/ACV-001">ACV-001</a> © 2025 by <a href="https://github.com/Archivoice">YiChen Huang</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
-The license only applies to direct use of the dataset, and does not apply to models trained.\
-Any model trained using ACV-001 can follow its own license.
+The license only applies to direct use of the dataset and models mainly featuring the voice of ACV-001, and does not apply to models trained via parallel training.\
+Models trained using ACV-001 as supplementary data can follow its own license.
