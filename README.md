@@ -29,8 +29,9 @@ The ds contains f0 and note slur data. (Aside from English, all other data has b
 ## Additional Info:
 In the full length version of the dataset, humming is labeled `MM` instead of `m` to prevent the converter from merging it with `SP` and `AP` phonemes.\
 For English, since consonant clusters can have varying placement in a note. For example, in "drought", the `r` is treated as a vowel, but when it comes to "had read", the `r` is a consonant.\
-To prevent placement issues, consonant clusters where the semivowel (r, w, y, l) become vowels, the consonant before it is labeled in all caps (ie. "straight": `s T r ey t`).
-> The above only applies to full length samples, the segmented samples have already been converted back.
+To prevent placement issues, consonant clusters where the semivowel (r, w, y, l) become vowels, the consonant before it is labeled in all caps (ie. "straight": `s T r ey t`).\
+Due to `ㅢ` in Korean being `eu i`, but both are vowels, in cases of `eu i`, it's labeled `eu ii` instead to keep the phonemes in the same note. When using, do make sure to convert all instances of `ii` in the Korean language segment back to `i` to prevent issues.
+> The above only apply to full length samples, the segmented samples have already been converted back.
 
 The dataset includes the joke phoneme `mlem` for mouth clicks at the start of breaths.
 
