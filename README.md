@@ -23,7 +23,7 @@ The dataset is recorded at 16 bit 44.1k Hz in wav format and labeled in HTK labe
 Audio has been dereverbed, denoised, and partially normalized for more even consistency.
 
 The dataset is released with two versions, full length and segmented.\
-The full length dataset only includes wav and lab files, whereas the segmented dataset includes ds files and a transcription.csv for diffsinger usage.\
+The full length dataset only includes wav and lab files, whereas the segmented dataset includes ds files and a transcription.csv for [diffsinger](https://github.com/openvpi/DiffSinger) usage.\
 The ds contains f0 and note slur data. (Aside from English, all other data has been manually slur cut, English samples were processed via [SOME](https://github.com/openvpi/SOME))
 
 ## Additional Info:
@@ -33,7 +33,7 @@ To prevent placement issues, consonant clusters where the semivowel (r, w, y, l)
 Due to `ㅢ` in Korean being `eu i`, but both are vowels, in cases of `eu i`, it's labeled `eu ii` instead to keep the phonemes in the same note. When using, do make sure to convert all instances of `ii` in the Korean language segment back to `i` to prevent issues.
 > The above only apply to full length samples, the segmented samples have already been converted back.
 
-The dataset includes the joke phoneme `mlem` for mouth clicks at the start of breaths.
+The dataset includes the following global phonemes: [`exh`,`vf`,`cl`,`mlem`,`hx`,`axh`], `exh`/`axh` for unvoiced and voiced exhales, `vf` for vocal fry, `cl` for stops, `mlem` for mouth clicks, `hx` for unvoiced sounds (ie. the `h` sound in "white")
 
 ## Song List:
 Moved to [song list](/song_list)
