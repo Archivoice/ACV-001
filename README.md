@@ -3,7 +3,7 @@ public male singing voice dataset
 
 # Dataset Info:
 ## Format and Specs:
-The dataset is manually labeled with the following systems (the native/non native refers to level of fluency):\
+The dataset is manually labeled with the following systems (the native/non native refers to level of fluency):
 >[Cantonese](https://github.com/Archivoice/diffsinger-Cantonese-phonetic-system) (language tag: `ca/`, non native)\
 [Mandarin Chinese](https://github.com/Archivoice/AV-diffsinger-Chinese-support) (language tag: `cn/`, native)\
 arpabet for English (language tag: `en/`, native)\
