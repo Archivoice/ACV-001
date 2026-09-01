@@ -14,6 +14,9 @@ Korean via Team Coda's [system](https://github.com/Coda-SVS/diffsinger-korean-su
 The dataset is around 3/5 fully manually labeled, around 2/5 is generated via [WFL](https://github.com/MLo7Ghinsan/WFL-ASR) and manually corrected.\
 Overall, all labels have been manually checked and should be correct, save for a few incorrectly labeled phonemes.
 
+# WARNING
+It was just found that the English section (which was slurcut via SOME after an incident resulting in all originally manually slurcut data to be damaged beyond repair) has some faulty data which can negatively affect pitch models.
+
 To train exclusively in specific language, you can use tools such as [notepad++](https://notepad-plus-plus.org/downloads/) to search for `/` in the files via the "Find in Files" function.
 Which will make a list showing every sample that has a language tag.\
 It's recommended to use `/` instead of the full language tab, since in the case of Chinese and English, there can be more than one additional language.\
